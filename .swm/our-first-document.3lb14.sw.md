@@ -13,7 +13,7 @@ Check out this `📄 README.md`
 4      **A few things to know about me:**
 5      1. I am the VP of Sales at Swimm
 6      2. I have two dogs
-7      3. I live in Texas
+7      3. I live in Austin
 ```
 
 <br/>
